@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comatguigugmall" />
+        <module name="fastdfs-client-java" />
+        <module name="gamll-user-web" />
+        <module name="gmall-activiti" />
+        <module name="gmall-api" />
+        <module name="gmall-cart-service" />
+        <module name="gmall-cart-web" />
+        <module name="gmall-common-util" />
+        <module name="gmall-item-web" />
+        <module name="gmall-manage-service" />
+        <module name="gmall-manage-web" />
+        <module name="gmall-order-service" />
+        <module name="gmall-order-web" />
+        <module name="gmall-passport-web" />
+        <module name="gmall-payment" />
+        <module name="gmall-search-service" />
+        <module name="gmall-search-web" />
+        <module name="gmall-service-util" />
+        <module name="gmall-user-service" />
+        <module name="gmall-web-util" />
+        <module name="gware-manage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.atguigu.gmall" target="1.8" />
+      <module name="comatguigugmall" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="fastdfs-client-java" target="1.6" />
+      <module name="gamll-user-web" target="1.8" />
+      <module name="gmall-activiti" target="1.8" />
+      <module name="gmall-api" target="1.8" />
+      <module name="gmall-cart-service" target="1.8" />
+      <module name="gmall-cart-web" target="1.8" />
+      <module name="gmall-common-util" target="1.8" />
+      <module name="gmall-demo" target="1.8" />
+      <module name="gmall-item-web" target="1.8" />
+      <module name="gmall-manage-service" target="1.8" />
+      <module name="gmall-manage-web" target="1.8" />
+      <module name="gmall-order-service" target="1.8" />
+      <module name="gmall-order-web" target="1.8" />
+      <module name="gmall-parent" target="1.8" />
+      <module name="gmall-passport-service" target="1.8" />
+      <module name="gmall-passport-web" target="1.8" />
+      <module name="gmall-payment" target="1.8" />
+      <module name="gmall-search-service" target="1.8" />
+      <module name="gmall-search-web" target="1.8" />
+      <module name="gmall-service-util" target="1.8" />
+      <module name="gmall-user" target="1.8" />
+      <module name="gmall-user-service" target="1.8" />
+      <module name="gmall-web-util" target="1.8" />
+      <module name="gware-manage" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="gamll-user-web" options="" />
+      <module name="gmall-activiti" options="" />
+      <module name="gmall-cart-service" options="" />
+      <module name="gmall-cart-web" options="" />
+      <module name="gmall-demo" options="-parameters" />
+      <module name="gmall-item-web" options="" />
+      <module name="gmall-manage-service" options="" />
+      <module name="gmall-manage-web" options="" />
+      <module name="gmall-order-service" options="" />
+      <module name="gmall-order-web" options="" />
+      <module name="gmall-passport-service" options="" />
+      <module name="gmall-passport-web" options="" />
+      <module name="gmall-payment" options="" />
+      <module name="gmall-search-service" options="" />
+      <module name="gmall-user" options="" />
+      <module name="gmall-user-service" options="" />
+    </option>
+  </component>
+</project>

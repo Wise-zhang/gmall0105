@@ -18,7 +18,6 @@
     </properties>
 
     <dependencies>
-
         <dependency>
             <groupId>com.atguigu.gmall</groupId>
             <artifactId>gmall-service-util</artifactId>
@@ -30,7 +29,6 @@
             <artifactId>gmall-api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-
     </dependencies>
 
     <build>

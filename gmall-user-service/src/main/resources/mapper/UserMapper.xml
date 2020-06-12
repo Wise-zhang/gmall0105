@@ -5,7 +5,7 @@
 <mapper namespace="com.atguigu.gmall.user.mapper.UserMapper">
     
     <select id="selectAllUser" resultType="com.atguigu.gmall.bean.UmsMember">
-        select *  from ums_member
+        select t.*  from ums_member t
     </select>
 
 </mapper>
